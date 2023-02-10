@@ -83,7 +83,7 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/DevilRexxx/TBomb.git
 cd TBomb
 ./TBomb.sh
 ```
@@ -125,7 +125,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/DevilRexxx/TBomb.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -135,10 +135,6 @@ bash TBomb.sh
 
 The package `toilet` cannot be installed yet on macOS. But TBomb does still work.
 
-### Demonstrative Video:
-
-- Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
-- Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
 
 ### TODO:
 
